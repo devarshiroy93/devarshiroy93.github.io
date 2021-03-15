@@ -1,2 +1,2 @@
-# devarshiroy93.github.io
+# devarshiroy
 to host pages
